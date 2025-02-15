@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/user-attachments/assets/6765f6dc-9a97-4181-8996-675a149e7a3b)
+![logo](https://www.joberty.com/blog/content/images/2023/09/web-developers.png)
 <h1 align="center">Hi 👋, I'm Aditya Kumar Singh</h1>
 <h3 align="center">A passionate full stack web development from India</h3>
 
