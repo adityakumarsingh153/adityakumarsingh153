@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codemastiwithadi&label=Profile%20views&color=0e75b6&style=flat" alt="codemastiwithadi" /> </p>
 
-- 🔭 I’m currently working on [You-tubers](https://www.youtube.com/@codefusionacademy)
+- 🔭 I’m currently working on [You-tubers](https://www.youtube.com/@codeaditya)
 
 - 🌱 I’m currently learning **B-Tech Final Year Student from Information Technology**
 
